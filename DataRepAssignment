@@ -1,0 +1,5 @@
+The way computers interpret anything is through simple numbers, specifically 0s and 1s. Everything that we do using a computer is "translated" into the binary code that the computer understands. 
+There is a middleman between the user and computer than inteprets and translates the inputs and outputs of both sides. The computer is somewhat of an advanced calculator.
+An example of how data is represented through numbers in a computer is the movement of a character in a game. Inside a game, you move through the WASD keys and the computer takes these inputs and moves the character accordingly.
+However what is happening within the code is that the computer is just moving the character an x and y amount in the coordinates. So basically, when you press "D" to move right, what is really happening is that the program is telling
+to move the character's body like 1 inch to the right. And more advanced is the amount of physics in games like platformers where calculations of numbers are done in real time where different variables are taken and calculated in a flash.
