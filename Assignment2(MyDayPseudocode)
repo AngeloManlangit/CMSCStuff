@@ -1,0 +1,20 @@
+Wake up
+If time is below 7:30 AM
+  Go to sleep
+  Go back to line 3
+Else
+  Start Day
+
+If Day is started
+  Eat food
+  Shower
+  If feeling lazy
+    Play games
+  Else
+    Do assignments
+  If time equal or above 7:00 PM
+    Eat dinner
+    Finish any works
+    Go to sleep
+
+Stop
